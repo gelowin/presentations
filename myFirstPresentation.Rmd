@@ -1,8 +1,14 @@
-# First Presentation
 
 
+
+Ni idea de como funciona esto
+/tmp/ediff5200ZSF	2017-07-11 17:46:10.979708011 +0200
+/tmp/ediff5200mcL	2017-07-11 17:46:11.047708385 +0200
 
 cuando realizo una modificacion
+  
 
 
-       
+ 
+
+a ver si esto funciona
